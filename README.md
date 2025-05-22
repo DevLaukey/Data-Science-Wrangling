@@ -41,7 +41,7 @@ Ensure you have the following installed before using Data-Science-Wrangling:
 ### Installation
 Clone the repository and navigate into the project directory:
 ```shell
-git clone https://github.com/yourusername/Data-Science-Wrangling.git
+git clone https://github.com/DevLaukey/Data-Science-Wrangling.git
 cd Data-Science-Wrangling
 ```
 
